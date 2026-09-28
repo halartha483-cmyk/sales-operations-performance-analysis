@@ -124,7 +124,7 @@ The Executive Overview provides:
 ### Customer & Operations Analysis
 
 ![Customer & Operations Analysis](screenshot-customer-operations-analysis.png)
-![Customer & Operations Analysis](screenshot-customer-operations-analysis2.png)
+
 
 The second analysis page focuses on:
 
