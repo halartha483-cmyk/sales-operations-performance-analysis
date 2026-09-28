@@ -106,6 +106,7 @@ This indicates a strong association between delivery performance and customer sa
 ## Power BI Dashboard
 
 ### Executive Overview
+![Executive Overview](screenshot-executive-overview.png)
 
 The Executive Overview provides:
 
