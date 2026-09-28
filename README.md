@@ -123,6 +123,9 @@ The Executive Overview provides:
 
 ### Customer & Operations Analysis
 
+![Customer & Operations Analysis](screenshot-customer-operations-analysis.png)
+![Customer & Operations Analysis](screenshot-customer-operations-analysis 2.png)
+
 The second analysis page focuses on:
 
 * Repeat vs one-time customers
